@@ -76,7 +76,32 @@
             "74":"LXXIV",
             "75":"LXXV",
             "76":"LXXVI",
-            "max":"76"
+            "77":"LXXVII",
+            "78":"LXXVIII",
+            "79":"LXXIX",
+            "80":"LXXX",
+            "81":"LXXXI",
+            "82":"LXXXII",
+            "83":"LXXXIII",
+            "84":"LXXXIV",
+            "85":"LXXXV",
+            "86":"LXXXVI",
+            "87":"LXXXVII",
+            "88":"LXXXVIII",
+            "89":"LXXXIX",
+            "90":"XC",
+            "91":"XCI",
+            "92":"XCII",
+            "93":"XCIII",
+            "94":"XCIV",
+            "95":"XCV",
+            "96":"XCVI",
+            "97":"XCVII",
+            "98":"XCVIII",
+            "99":"XCIX",
+            "100":"C",
+            
+            "max":"100"
         }
     }
 }
